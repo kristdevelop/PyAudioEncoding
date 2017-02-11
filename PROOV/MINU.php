@@ -5,9 +5,7 @@
 <body>
 <h1>MIS ON? On 2017 veebruar 11</h1>
 <?php //see siin ongi serveri poolel, PHP tag ?>
-<?php echo "see tulebki php scriptist - HOLA"; ?>
-
-<?php echo "see tulebki php scriptist - HOLA"; ?>
+<?php echo "see tulebki php scriptist - HOLA DUDE"; ?>
 
 <?php 
     $host = "localhost";
