@@ -1,5 +1,5 @@
-# Source of Python code in 2012 ordered and supervised by Kylli Rist, developed by Arinde
-# Kylli Rist, renewed code of Python May 2017 for IT College Python Class
+# Base source of Python application ordered and supervised by Kylli Rist, developed by Arinde in 2012
+# Kylli Rist, renewed this code for IT College Python Class in 2017 
 
 import shlex, subprocess
 import audioread			# from https://pypi.python.org/pypi/audioread/2.1.4
